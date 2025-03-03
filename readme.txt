@@ -1,0 +1,1 @@
+Healthcare LLM is specialized in repsonding to health related quaeries 
